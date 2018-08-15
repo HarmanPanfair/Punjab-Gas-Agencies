@@ -1,0 +1,21 @@
+SMAP
+distributeracceptconnection_jsp.java
+JSP
+*S JSP
+*F
++ 0 distributeracceptconnection.jsp
+distributeracceptconnection.jsp
++ 1 distributerheader.jsp
+distributerheader.jsp
++ 2 distributerfooter.jsp
+distributerfooter.jsp
+*L
+5,2:50
+5#1,19:52
+24:71,3
+25,35:74
+7#0,8:108
+15,16:117
+30,10:133
+1#2,13:142
+*E
